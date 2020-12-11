@@ -1,7 +1,7 @@
 title: 'M3g4byt3'
 description: "m3g4byt3's site for hackers, developers and script kiddies."
-baseurl: "/m3g4byt3-site"
-url: "https://orangemn6.github.io"
+baseurl: "/"
+url: "https://m3g4byt3.cf"
 
 header_pages:
   - index.md
