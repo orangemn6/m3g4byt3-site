@@ -6,4 +6,4 @@ permalink: /
 
 # Welcome
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+Welcome to m3g4byt3's site about hacking, linux, and more!
